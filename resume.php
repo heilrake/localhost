@@ -4,13 +4,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Image</title>
+    <title>Document</title>
   </head>
   <header>
     <ul style="display: flex; gap: 30px">
-      <li><a href="email.html">Email</a></li>
-      <li><a href="picture.html">Picture of author</a></li>
-      <li><a href="index.html">Home</a></li>
+      <li><a href="email.php">Email</a></li>
+      <li><a href="picture.php">Picture of author</a></li>
+      <li><a href="index.php">Home</a></li>
     </ul>
   </header>
   <body>
@@ -23,11 +23,14 @@
       "
     >
       <div style="display: flex; flex-direction: column; gap: 20px">
-        <img
-          src="./avatar.jpg"
-          alt="image user"
-          style="width: 450px; height: 450px"
-        />
+        <h2>Квочко Михайло Романович КІ-19</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
+          <br />
+          pariatur placeat excepturi nesciunt iusto voluptates, fuga autem neque
+          <br />
+          suscipit id, totam delectus veniam at itaque?
+        </p>
       </div>
     </div>
   </body>

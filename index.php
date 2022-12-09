@@ -7,8 +7,8 @@
     <title>Document</title>
   </head>
   <body style="margin: 40px">
-    <a href="email.html">Email</a>
-    <a style="margin: 0px 20px" href="picture.html">Picture of author</a>
-    <a href="resume.html">Resume of author</a>
+    <a href="email.php">Email</a>
+    <a style="margin: 0px 20px" href="picture.php">Picture of author</a>
+    <a href="resume.php">Resume of author</a>
   </body>
 </html>

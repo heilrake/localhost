@@ -8,9 +8,9 @@
   </head>
   <header>
     <ul style="display: flex; gap: 30px">
-      <li><a href="email.html">Email</a></li>
-      <li><a href="picture.html">Picture of author</a></li>
-      <li><a href="index.html">Home</a></li>
+      <li><a href="email.php">Email</a></li>
+      <li><a href="picture.php">Picture of author</a></li>
+      <li><a href="index.php">Home</a></li>
     </ul>
   </header>
   <body>
