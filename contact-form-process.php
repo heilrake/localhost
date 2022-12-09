@@ -61,7 +61,7 @@ if (isset($_POST['Email'])) {
     $headers = 'From: ' . $email . "\r\n" .
         'Reply-To: ' . $email . "\r\n" .
         'X-Mailer: PHP/' . phpversion();
-    @mail($email_to, $email_message);
+    mail($email_to, $email_message);
 ?>
 
     <!-- include your success message below -->
